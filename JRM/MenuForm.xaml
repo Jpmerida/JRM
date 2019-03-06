@@ -9,9 +9,10 @@
     <Grid>
         <Button Content="Book a Guest" HorizontalAlignment="Left" Height="58" Margin="245,56,0,0" VerticalAlignment="Top" Width="312" FontFamily="Showcard Gothic" FontSize="24"/>
         <Button Content="Resort Services" HorizontalAlignment="Left" Height="58" Margin="245,134,0,0" VerticalAlignment="Top" Width="312" FontFamily="Showcard Gothic" FontSize="24"/>
-        <Button Content="Reports" HorizontalAlignment="Left" Height="58" Margin="245,215,0,0" VerticalAlignment="Top" Width="312" FontFamily="Showcard Gothic" FontSize="24"/>
+        <Button Content="Reports" HorizontalAlignment="Left" Height="58" Margin="245,288,0,0" VerticalAlignment="Top" Width="312" FontFamily="Showcard Gothic" FontSize="24"/>
         <Button Content="Logout" HorizontalAlignment="Left" Margin="707,10,0,0" VerticalAlignment="Top" Width="75" FontFamily="Showcard Gothic"/>
         <Button Content="Manage Users" HorizontalAlignment="Left" Margin="36,348,0,0" VerticalAlignment="Top" Width="98" FontFamily="Showcard Gothic" Height="23"/>
+        <Button Content="Resort Services" HorizontalAlignment="Left" Height="58" Margin="245,209,0,0" VerticalAlignment="Top" Width="312" FontFamily="Showcard Gothic" FontSize="24"/>
 
     </Grid>
 </Window>

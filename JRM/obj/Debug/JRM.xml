@@ -64,6 +64,16 @@ __
 InitializeComponent
 </summary>
 </member>
+<member name="T:JRM.CustomerInfo">
+<summary>
+CustomerInfo
+</summary>
+</member>
+<member name="M:JRM.CustomerInfo.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
 <member name="T:JRM.Window1">
 <summary>
 Window1
